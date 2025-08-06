@@ -1,20 +1,22 @@
-# 24 .Crie_graficos_e_historia_com_dados
-## Sumário 
-- [primeiro indice](#1-nome-1)
-- [segundo indice](#2-nome-2)
----
-## 1. nome 1
-### Objetivo Geral 
-#### Outro nome de subtópico
----
-## 2. nome 2
+# 3 Crie Gráficos e conte histórias com Dados
 
---- 
-### Links Uteis
-- [Trilha no git](https://github.com/digitalinnovationone/trilha-python-dio)
-- [Documentação input](https://doc.python.org/3/library/functions.html#input)
+## Sumário 
 ---
-As respostas da aula 24 estão [aqui](IMGS)
+
+- [Introdução](#1-introdução)
+- [Links Importantes](#2-links-importantes-para-você-acompanhar-a-aula)
+- [Mergulhe mais profundo](#3-mergulhe-mais-profundo)
+- [Notações da Aula](#4-notações-da-aula)
+---
+## 1. Introdução
+---
+## 2. Links importantes para você acompanhar a aula
+--- 
+## 3. Mergulhe mais profundo
+---
+## 4. Notações da Aula
+---
+As respostas da aula 22 estão [aqui](IMGS)
 
 tabela exemplo 
 | | |
@@ -47,7 +49,7 @@ print("Hello World!")
 </table>
 
 ---
-Titulo: 24 .Crie_graficos_e_historia_com_dados 
+Titulo: 3 Crie Gráficos e conte histórias com Dados
 
 Autor: Thierry Lucas Chaves
 

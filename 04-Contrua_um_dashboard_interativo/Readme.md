@@ -1,20 +1,20 @@
-# 25 .Contrua_um_dashboard_interativo
+# 4 Contrua um Dashboard interativo
 ## Sumário 
-- [primeiro indice](#1-nome-1)
-- [segundo indice](#2-nome-2)
 ---
-## 1. nome 1
-### Objetivo Geral 
-#### Outro nome de subtópico
+- [Introdução](#1-introdução)
+- [Links Importantes](#2-links-importantes-para-você-acompanhar-a-aula)
+- [Mergulhe mais profundo](#3-mergulhe-mais-profundo)
+- [Notações da Aula](#4-notações-da-aula)
 ---
-## 2. nome 2
-
+## 1. Introdução
+---
+## 2. Links importantes para você acompanhar a aula
 --- 
-### Links Uteis
-- [Trilha no git](https://github.com/digitalinnovationone/trilha-python-dio)
-- [Documentação input](https://doc.python.org/3/library/functions.html#input)
+## 3. Mergulhe mais profundo
 ---
-As respostas da aula 25 estão [aqui](IMGS)
+## 4. Notações da Aula
+---
+As respostas da aula 22 estão [aqui](IMGS)
 
 tabela exemplo 
 | | |
@@ -47,7 +47,7 @@ print("Hello World!")
 </table>
 
 ---
-Titulo: 25 .Contrua_um_dashboard_interativo 
+Titulo: 4 Contrua um Dashboard interativo
 
 Autor: Thierry Lucas Chaves
 
@@ -57,4 +57,4 @@ Data modificacao: 05/08/2025
 
 Versao: 1.0  
 
----
+<!-- --- -->

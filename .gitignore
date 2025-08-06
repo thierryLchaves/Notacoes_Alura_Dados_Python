@@ -1,0 +1,23 @@
+# Arquivos de Cache e Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos de dependências (o pip freeze gera o requirements.txt)
+pip-wheel-metadata/
+local_requirements.txt
+pip-selfcheck.json
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
