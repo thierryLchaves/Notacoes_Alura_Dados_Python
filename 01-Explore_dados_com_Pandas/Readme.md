@@ -84,7 +84,7 @@ Tal qual pode ser utilizado em código python `.py` quando estamos querendo sabe
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: center;">
-    <img src="imgs/pd_info_exempl.png" alt="pd_info" width="40%"/>
+    <img src="imgs/pd_info_exempl.png" alt="pd_info" width="70%"/>
     </td>
 </tr>
 </table>
@@ -157,7 +157,7 @@ Voltando ao método `descibre` quando utilizado com o parâmetro de  `include="o
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: center;">
-    <img src="imgs/pd_describle_include.png" alt="pd_describle_include" width="40%"/>
+    <img src="imgs/pd_describle_include.png" alt="pd_describle_include" width="70%"/>
     </td>
 </tr>
 </table> 
