@@ -1,6 +1,8 @@
-# 4 Contrua um Dashboard interativo
+# 3 Crie Gráficos e conte histórias com Dados
+
 ## Sumário 
 ---
+
 - [Introdução](#1-introdução)
 - [Links Importantes](#2-links-importantes-para-você-acompanhar-a-aula)
 - [Mergulhe mais profundo](#3-mergulhe-mais-profundo)
@@ -47,7 +49,7 @@ print("Hello World!")
 </table>
 
 ---
-Titulo: 4 Contrua um Dashboard interativo
+Titulo: 3 Crie Gráficos e conte histórias com Dados
 
 Autor: Thierry Lucas Chaves
 
@@ -57,4 +59,4 @@ Data modificacao: 05/08/2025
 
 Versao: 1.0  
 
-<!-- --- -->
+---

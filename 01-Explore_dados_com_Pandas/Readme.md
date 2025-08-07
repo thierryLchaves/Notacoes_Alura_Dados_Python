@@ -66,8 +66,10 @@ pip install pandas
 # PS o Vscode cria automaticamente, porém para fins de conhecimento o mesmo foi instalado
 pip install ipykernel
 
+python -m ipykernel install --user --name=nome-projeto-venv --display-name="nome=pra-selecao-de-kernel (.venv)"
+
 ```
-> __PS:__ É valido ressaltar que para utilização do comando acima, somente é possível dessa forma em Linux pois foi criando um ambiente virtual, como foi optado pela utilização de arquivos em `ipynb` foi necessário junto a instalação da biblioteca pandas a `ipykernel`, para rodar os códigos. 
+> __PS:__ É valido ressaltar que para utilização do comando acima, somente é possível dessa forma em Linux pois foi criando um ambiente virtual, como foi optado pela utilização de arquivos em `ipynb` foi necessário junto a instalação da biblioteca pandas a `ipykernel`, para rodar os códigos. Devido ao processo de seleção de Kernel do Jupyter notebook, o ultimo comando se mostrou necessário para que o processo de execução do notebook ocorra corretamente.
 
 Também foi realizado o comando abaixo, para facilitar o processo de import das bibliotecas utilizadas no código da aula.
 ```bash
